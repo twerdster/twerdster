@@ -1,3 +1,3 @@
 # Aaron Wetzler
 
-[Personal website](https://twerdster.github.io/)
+[Academic website, publications, code and data](https://twerdster.github.io/)
